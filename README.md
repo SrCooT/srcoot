@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Juno Cristian(SrCooT)
 <div>
-  <a href="https://github.com/srcoot">
+  <a href="https://github.com/SrCooT">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srcoot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrCooT&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
